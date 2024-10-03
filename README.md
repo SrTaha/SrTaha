@@ -2,8 +2,8 @@
 
 **Front End Developer**
 
-I'm a persian front-end and python developer . I recently started my activity in this field , But I hope that I can make good progress.         
-My goal is to be a professional front-end developer and in the second step, learn JavaScript .               
+I'm a persian front-end developer . I recently started my activity in this field , But I hope that I can make good progress.         
+My goal is to be a professional front-end developer .              
 For feedback or collaboration, you can connect with me via social media.                                                     
 **Good luck 👋🏻**
 
