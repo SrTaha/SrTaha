@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SrTaha](https://github.com/SrTaha)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/SrTaha">My Github</a>
 
 - 💬 Ask me about **BootStrap , Tailwind**
 
