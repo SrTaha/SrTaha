@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SrTaha">My Github</a>
 
-- 💬 Ask me about **BootStrap , Tailwind**
+- 💬 Ask me about **BootStrap , Tailwind , JavaScript**
 
 - 📫 How to reach me **tahamajlesipour@gmail.com**
 
