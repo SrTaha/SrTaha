@@ -11,6 +11,9 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SrTaha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/SrTaha?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SrTaha?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+    
+      
    </p>
 
 - 🔭 I’m currently working on **A web based game**
@@ -45,11 +48,5 @@
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@MajlesiTaha?sub_confirmation=1)
-#
-### Github Profile Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SrTaha&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SrTaha&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+
+
